@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+"# this is Hotel booking landing page. I converted Psd to react application for my client which is pixel perfect with material-ui bootstrap and reausable react components " 
+"# Hotel-Booking-Landing-Page" 
